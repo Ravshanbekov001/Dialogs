@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="fragment_dialog">Fragment Dialog</string>
+    <string name="datepicker_dialog">DatePicker Dialog</string>
+    <string name="timepicker_dialog">TimePicker Dialog</string>
+    <string name="bottomsheet_dialog">BottomSheet Dialog</string>
+    <string name="snackbar">Snackbar</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="name">Name</string>
+    <string name="custom_dialog_title">Custom Dialog Title</string>
+    <string name="number">Number</string>
+    <string name="email">E-mail</string>
+    <string name="save">Save</string>
+    <string name="no_connection">No Connection</string>
+    <string name="no_internet_connection">No internetconnection.Chek your connection or try again</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="okay">Okay</string>
+    <string name="awesome_dialog">AWESOME DIALOG</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adispiscing elit. Fusce congue nunc id auctorn feugiat.Maecenas scelerisque nisi quam, at saqittis lectus pharetra id. Etiam ultrices suscipit dictum.</string>
+    <string name="log_in">Log In</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="ko_rib_bo_ldizmi">Ko`rib bo`ldizmi?</string>
+    <string name="yoping_unda">Yoping unda</string>
+    <string name="select_language">Select Language</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="swift">Swift</string>
+    <string name="submit">Submit</string>
+</resources>
